@@ -1,0 +1,25 @@
+name: Proxy Collector
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # اجرای هر ساعت
+  workflow_dispatch:     # اجرای دستی
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r ./requirements.txt
+
+    - name: Run proxy collector
+      run: python ./collect_proxies/collect_proxies.py
