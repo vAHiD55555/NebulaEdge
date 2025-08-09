@@ -5,6 +5,22 @@
 **NebulaEdge** is a cloud-native proxy orchestration system that collects free proxies from public sources, categorizes them by country and protocol type, and generates multi-format outputs (PAC, V2Ray, Clash, Sing-box). It is fully automated via GitHub Actions and includes obfuscation mechanisms to evade detection by ISPs.
 
 ---
+# Proxy Pack
+
+Automated proxy collection, validation, and multi-format packaging.
+
+## Scripts
+
+- `scripts/download_proxies.py`  
+- `scripts/validate_proxies_advanced.py`  
+- `scripts/generate_outputs.py`  
+
+## Usage
+
+```bash
+python3 scripts/download_proxies.py
+python3 scripts/validate_proxies_advanced.py
+python3 scripts/generate_outputs.py
 
 ### 🔥 Features
 
