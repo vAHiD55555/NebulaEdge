@@ -1,0 +1,16 @@
+{
+  "defaultMode": "whitelist",
+  "whitelist": [
+    "*.example.com",
+    "*.openai.com",
+    "github.com"
+  ],
+  "blacklist": [
+    "ads.example.com",
+    "track.example.net"
+  ],
+  "proxyServer": "SOCKS5 127.0.0.1:1080",
+  "fallbackProxy": "DIRECT",
+  "autoUpdate": true,
+  "updateIntervalHours": 24
+}
