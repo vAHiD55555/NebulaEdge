@@ -1,3 +1,4 @@
+[![Auto Generate Configs and Deploy to Pages](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/auto_generate.yml/badge.svg)](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/auto_generate.yml)
 [![Deploy static content to Pages](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/static.yml/badge.svg)](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/static.yml)
 [![pages-build-deployment](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/pages/pages-build-deployment)
 # 🌌 NebulaEdge
