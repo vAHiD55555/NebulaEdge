@@ -1,3 +1,4 @@
+[![Deploy static content to Pages](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/static.yml/badge.svg)](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/static.yml)
 [![pages-build-deployment](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/pages/pages-build-deployment)
 # 🌌 NebulaEdge
 
