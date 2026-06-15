@@ -1,3 +1,4 @@
+[![pages-build-deployment](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/vAHiD55555/NebulaEdge/actions/workflows/pages/pages-build-deployment)
 # 🌌 NebulaEdge
 
 ## 🇬🇧 English
